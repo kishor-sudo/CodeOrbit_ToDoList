@@ -199,7 +199,7 @@ Make sure **Python 3** is installed on your system.
 ### 2. Clone the repository
 
 ```bash
-git clone <your-github-repository-link>
+git clone <https://github.com/kishor-sudo/CodeOrbit_ToDoList>
 ```
 
 ### 3. Open the project folder
@@ -253,4 +253,4 @@ The application satisfies the required functionality of adding, viewing, and rem
 
 **Kishor B**
 
-GitHub: <your-github-profile-link>
+GitHub: <https://github.com/kishor-sudo>
